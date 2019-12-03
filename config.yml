@@ -1,0 +1,10 @@
+server:
+  port: 6390
+
+redisserver:
+  primary:
+    address: "114.67.100.239:6379"
+    password: redistest0102
+  anabranch:
+    address: "114.67.100.240:6379"
+    password: redistest0102
